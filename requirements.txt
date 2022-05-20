@@ -2,6 +2,7 @@ easynmt==2.0.1
 fosc==0.0.2
 gcld3
 keras==2.8.0
+lxml
 matplotlib
 pandas
 scikit-learn==0.21.3
