@@ -1,6 +1,6 @@
-# OJSglobal
+# Open Journal Systems Global
 
-### How Many Journals Are There? Beginning to Count the Discounted  
+### How Many Journals Are There? Counting the Discounted  
 Jon Ball, Saurabh Khanna, Juan Alperin, and John Willinsky  
   
   (Work in progress)  
