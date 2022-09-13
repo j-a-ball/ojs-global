@@ -1,9 +1,8 @@
 # Open Journal Systems Global
 
-### How Many Journals Are There? Counting the Discounted  
-Jon Ball, Saurabh Khanna, Juan Alperin, and John Willinsky  
-  
-  (Work in progress)  
+### Recalibrating the Scope of Scholarly Publishing: A Modest Step in a Vast Decolonization Process 
+Saurabh Khanna, Jon Ball, Juan Alperin, and John Willinsky  
+
   
   Links:  
   [Global timelapse of Open Journal Systems' growth](https://pkp.sfu.ca/ojs/stats/)  
